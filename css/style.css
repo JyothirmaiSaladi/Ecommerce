@@ -1,0 +1,13 @@
+img{
+	width:50%;
+	display:block;
+	margin:1% auto;
+	transition: transform .2s;
+}
+img:hover{
+	transform: scale(1.5);
+}
+.card{
+	box-shadow: 10px 10px 10px -6px #0dcaf0;
+	border-radius: 15px;
+}

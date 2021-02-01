@@ -1,0 +1,30 @@
+{
+	"mobiles":[
+		{
+			"name":"Nokia 7.2",
+			"image":"img/nokia.jpg",
+			"originalPrice":16000,
+			"price":15999
+		},{
+			"name":"redmi 10i",
+			"image":"img/Mi10i.jpg",
+			"originalPrice":24000,
+			"price":23999
+		},{
+			"name":"samsung f41",
+			"image":"img/Samsungf41.png",
+			"originalPrice":15000,
+			"price":14500
+		},{
+			"name":"one plus nord",
+			"image":"img/oneplus.jpg",
+			"originalPrice":35000,
+			"price":32000
+		},{
+			"name":"realme7i",
+			"image":"img/realme7i.jpg",
+			"originalPrice":20000,
+			"price":15000
+		}
+	]
+}
